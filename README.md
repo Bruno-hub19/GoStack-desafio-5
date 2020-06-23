@@ -24,6 +24,6 @@ Construir uma API para operações relativamente simples utilizando um _pattern_
 
 - Para contribuir abra uma `issue`, dê um `fork` no projeto, faça suas alterações e abra uma `pull request` :satisfied:
 
-- Para clonar `git clone https://github.com/Bruno-hub19/GoStack-desafio-2.git`
+- Para clonar `git clone https://github.com/Bruno-hub19/GoStack-desafio-5.git`
 
 #### #boracodar :purple_heart:
